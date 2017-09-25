@@ -113,82 +113,38 @@
                         <table class="table table-hover">
                             <thead>
                                 <tr>
-                                    <th>Time</th>
-                                    <th>Speaker</th>
-                                    <th>Subject</th>
-                                    <th>Venue</th>
+                                    <th>Hora</th>                                    
+                                    <th></th>
                                 </tr>
                             </thead>
-                            <tbody>
+                            <tbody>                                
                                 <tr>
-                                    <td class="time"><i class="fa fa-clock-o" aria-hidden="true"></i> 9.00 AM</td>
-                                    <td class="speakers">
-                                        <div class="speaker">
-                                            <div class="image-box">
-                                                <img src="images/resource/1.png" alt="">
-                                            </div>
-                                            <h4><a href="speaker-details.html">Samanta Doe</a></h4>
-                                        </div>
-                                    </td>
-                                    <td class="subject">Inroduction to Wp</td>                            
-                                    <td class="venue">Auditorium A</td>
-                                </tr>
+                                    <td class="time"><i class="fa fa-clock-o" aria-hidden="true"></i> 8:00 a.m. - 8:30 a.m.</td>
+                                    <td class="subject">Apertura y registro</td>                            
+                                </tr>                               
                                 <tr>
-                                    <td class="time"><i class="fa fa-clock-o" aria-hidden="true"></i> 10.00 AM</td>
-                                    <td class="speakers">
-                                        <div class="speaker">
-                                            <div class="image-box"><img src="images/resource/2.png" alt=""></div>
-                                            <h4><a href="speaker-details.html">Zerad Pawel</a></h4>
-                                        </div>
-                                    </td>
-                                    <td class="subject">Principle of Wp</td>
-                                    <td class="venue">Auditorium B</td>
-                                </tr>
+                                    <td class="time"><i class="fa fa-clock-o" aria-hidden="true"></i> 8:30 a.m. - 11:30 a.m.</td>
+                                    <td class="subject">Agro: ¿Qué nos falta para lograr potenciar y dinamizar el sector?</td>                            
+                                </tr>                             
+                                <tr> 
+                                    <td class="time"><i class="fa fa-clock-o" aria-hidden="true"></i> 8:30 a.m. - 11:45 a.m.</td>
+                                    <td class="subject">Break - Visita muestra comercial </td>                            
+                                </tr>                             
                                 <tr>
-                                    <td class="time"><i class="fa fa-clock-o" aria-hidden="true"></i> 12.00 AM</td>
-                                    <td class="speakers">
-                                        <div class="speaker">
-                                            <div class="image-box"><img src="images/resource/3.png" alt=""></div>
-                                            <h4><a href="speaker-details.html">Henri Mong</a></h4>
-                                        </div>
-                                    </td>
-                                    <td class="subject">Wp Requirements</td>
-                                    <td class="venue">Auditorium C</td>
-                                </tr>
+                                    <td class="time"><i class="fa fa-clock-o" aria-hidden="true"></i> 11:45 a.m. - 1:00 p.m.</td>
+                                    <td class="subject">Panel: Valor agregado en agro</td>                            
+                                </tr>                            
                                 <tr>
-                                    <td class="time"><i class="fa fa-clock-o" aria-hidden="true"></i> 2.00 PM</td>
-                                    <td class="speakers">
-                                        <div class="speaker">
-                                            <div class="image-box"><img src="images/resource/4.png" alt=""></div>
-                                            <h4><a href="speaker-details.html">Baily Lio</a></h4>
-                                        </div>
-                                    </td>
-                                    <td class="subject">Inroduction to Wp</td>
-                                    <td class="venue">Auditorium D</td>
-                                </tr>
+                                    <td class="time"><i class="fa fa-clock-o" aria-hidden="true"></i> 1:00 p.m. – 2:30p.m.</td>
+                                    <td class="subject">Almuerzo</td>                            
+                                </tr>                           
                                 <tr>
-                                    <td class="time"><i class="fa fa-clock-o" aria-hidden="true"></i> 3.00 PM</td>
-                                    <td class="speakers">
-                                        <div class="speaker">
-                                            <div class="image-box">
-                                                <img src="images/resource/5.png" alt="">
-                                            </div>
-                                            <h4><a href="speaker-details.html">Lee Mun</a></h4>
-                                        </div>
-                                    </td>
-                                    <td class="subject">Useful Tips for Wp</td>
-                                    <td class="venue">Auditorium E</td>
-                                </tr>
+                                    <td class="time"><i class="fa fa-clock-o" aria-hidden="true"></i> 2:00 p.m. - 2:30 p.m.</td>
+                                    <td class="subject">Bienvenida Emprendedores</td>                            
+                                </tr>                           
                                 <tr>
-                                    <td class="time"><i class="fa fa-clock-o" aria-hidden="true"></i> 4.00 PM</td>
-                                    <td class="speakers">
-                                        <div class="speaker">
-                                            <div class="image-box"><img src="images/resource/6.png" alt=""></div>
-                                            <h4><a href="speaker-details.html">Rickey Wen</a></h4>
-                                        </div>
-                                    </td>
-                                    <td class="subject">Plugin Development</td>
-                                    <td class="venue">Auditorium D</td>
+                                    <td class="time"><i class="fa fa-clock-o" aria-hidden="true"></i> 2:30 p.m. - 5:00 p.m.</td>
+                                    <td class="subject">Panel de Emprendimiento</td>                            
                                 </tr>
                             </tbody>
                         </table>
